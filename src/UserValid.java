@@ -34,6 +34,7 @@ public class UserValid {
             System.out.println("Mail Is Valid");
         }else {
             System.out.println("Mail Is Invalid");
+
         }
     }
 }
