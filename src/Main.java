@@ -8,5 +8,6 @@ public class Main {
         userValid.checkMobileNumber();
         userValid.checkPassword();
         userValid.checkPasswordWithAtLeastOneUpperCase();
+        userValid.passwordWithOneNumericNum();
     }
 }
