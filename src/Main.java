@@ -3,5 +3,6 @@ public class Main {
         UserValid userValid = new UserValid();
         userValid.checkFirstName();
         userValid.checkLastName();
+        userValid.checkValidMail();
     }
 }
