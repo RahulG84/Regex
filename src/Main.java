@@ -7,5 +7,6 @@ public class Main {
         userValid.checkValidMail();
         userValid.checkMobileNumber();
         userValid.checkPassword();
+        userValid.checkPasswordWithAtLeastOneUpperCase();
     }
 }
